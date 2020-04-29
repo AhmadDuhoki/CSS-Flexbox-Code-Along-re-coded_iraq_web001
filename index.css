@@ -35,7 +35,7 @@ footer {
 }
 
 .item {
-  flex-basis: 4em;
+  flex-basis: 20em;
   margin: 5px;
   background-color: #FCF2EC;
 }
